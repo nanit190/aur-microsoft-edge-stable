@@ -1,3 +1,6 @@
 *.log
 *.zst
 *.deb
+pkg/
+src/
+
